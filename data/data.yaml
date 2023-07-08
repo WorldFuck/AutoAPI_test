@@ -1,0 +1,15 @@
+-
+ method: get
+ url: https://api.a20safe.com/api.php
+ params:
+   api: 1
+   key: b07b88ce6545bc1bbfc382f18382031d
+   idcard: 360731199606060813
+
+-
+ method: post
+ url: https://api.a20safe.com/api.php
+ params:
+   api: 2
+   key: b07b88ce6545bc1bbfc382f18382031d
+   idcard: 360731199606060813
