@@ -4,7 +4,7 @@ import pytest
 import yaml
 
 if __name__ == '__main__':
-    pytest.main()
+    pytest.main(["-vs"])
     #
     # os.system("allure generate ./result -o ./report -clean")
 
